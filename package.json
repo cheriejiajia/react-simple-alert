@@ -1,0 +1,38 @@
+{
+  "name": "react-simple-alert",
+  "version": "0.0.1",
+  "description": "A simple alert component for React",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "alert"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheriejiajia/react-simple-alert.git"
+  },
+  "author": {
+    "name": "Cherie Liu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheriejiajia/react-simple-alert/issues"
+  },
+  "homepage": "https://github.com/cheriejiajia/react-simple-alert",
+  "devDependencies": {
+    "browserify": "^10.2.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.1.5",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "1.1.0",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
