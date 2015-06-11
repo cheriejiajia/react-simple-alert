@@ -1,6 +1,6 @@
 {
   "name": "react-simple-alert",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple alert component for React",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
     "alert"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "jsx --no-cache-dir /src /build"
   },
   "repository": {
     "type": "git",
