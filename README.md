@@ -1,3 +1,5 @@
+#Deprecated
+
 # react-simple-alert
 A simple alert component for React
 
